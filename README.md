@@ -1,4 +1,4 @@
-# Projeto Simples de CRUD com Node.js
+# Projeto Simples de Upload com Node.js
 
 Este é um projeto simples de back-end usando Node.js, Express e Multer para realizar upload de imagens.
 
